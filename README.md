@@ -4,7 +4,7 @@ Experienced Data Scientist specializing in Machine Learning and cognitive algori
 
 Excellent at identifying and assessing business needs to deliver products and solutions that drive business results. 
 
---------------------------------------------------------------------------
+
 
 ### Projects
 
@@ -18,7 +18,6 @@ Excellent at identifying and assessing business needs to deliver products and so
 
 **Identifying undervalued houses for real-estate investments in King County, Seattle**
 
---------------------------------------------------------------------------
 
 ### Get in Touch
 
