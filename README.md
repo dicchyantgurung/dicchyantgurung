@@ -1,6 +1,6 @@
 # Hey! I'm Dicchyant!
 
-Experienced Data Scientist specializing in Machine Learning and cognitive algorithm development! Finance and Project Management background with strong interpersonal skills and a relentless work ethic. 
+Experienced Data Scientist specializing in Machine Learning and cognitive algorithm development! Finance and Project Management background with strong interpersonal skills and relentless work ethic. 
 
 Excellent at identifying and assessing business needs to deliver products and solutions that drive business results. 
 
