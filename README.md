@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hey! I'm Dicchyant!
 
-<!--
-**dicchyantgurung/dicchyantgurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+Experienced Data Scientist specializing in Machine Learning and cognitive algorithm development! Finance and Project Management background with strong interpersonal skills and a relentless work ethic. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Excellent at identifying and assessing business needs to deliver products and solutions that drive business results. 
+
+--------------------------------------------------------------------------
+
+### Projects
+
+--------------------------------------------------------------------------
+
+**Optimizing Location and Service for Air-Taxi Operations in the Bay Area**
+
+**Evaluating Brand Presence for Apple and Google through Twitter Sentiment Analysis**
+
+**Identifying Opportunities to Improve Roadway Safety in Chicago through Car Crash Analysis**
+
+**Identifying undervalued houses for real-estate investments in King County, Seattle**
+
+--------------------------------------------------------------------------
+
+### Get in Touch
+
+--------------------------------------------------------------------------
+
+
