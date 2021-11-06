@@ -12,13 +12,13 @@ In my free time, I love to travel, get involved in semi-extreme sports such as c
 
 ### Projects
 
-[Optimizing Location and Service for Air-Taxi Operations in the Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
+1. [Optimizing Location and Service for Air-Taxi Operations in the Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
 
-[Evaluating Brand Presence for Apple and Google through Twitter Sentiment Analysis](https://github.com/dicchyantgurung/Tweet-sentiment-analysis-using-NLP-for-Google-and-Apple)
+2. [Evaluating Brand Presence for Apple and Google through Twitter Sentiment Analysis](https://github.com/dicchyantgurung/Tweet-sentiment-analysis-using-NLP-for-Google-and-Apple)
 
-[Identifying Opportunities to Improve Roadway Safety in Chicago through Car Crash Analysis](https://github.com/dicchyantgurung/Classification-of-car-crashes-in-Chicago-using-XGBoost)
+3. [Identifying Opportunities to Improve Roadway Safety in Chicago through Car Crash Analysis](https://github.com/dicchyantgurung/Classification-of-car-crashes-in-Chicago-using-XGBoost)
 
-[Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
+4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
 
 --------------------------------------------------------
 
