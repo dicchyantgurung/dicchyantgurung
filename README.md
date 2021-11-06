@@ -1,13 +1,12 @@
 # Hey! I'm Dicchyant!
 
-Experienced Data Scientist specializing in Machine Learning and cognitive algorithm development! Finance and Project Management background with strong interpersonal skills and relentless work ethic. 
+Data Scientist and Machine Learning engineer offering extensive background in Finance and Project Management. 
 
-Excellent at assessing business needs and delivering products and solutions that drive business results. 
+Experienced in Data Engineering (Python, R, SQL), Statistical Analysis (A/B testing), Machine Learning (Sci-kit learn, Pandas, NumPy), and Deep Learning (Keras). Highly skilled in synthesizing complex information and Data Storytelling (Tableau) to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data.
 
-
+--------------------------------------------------------------------------
 
 ### Projects
-
 --------------------------------------------------------------------------
 
 [Optimizing Location and Service for Air-Taxi Operations in the Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
@@ -21,9 +20,8 @@ Excellent at assessing business needs and delivering products and solutions that
 
 ### Get in Touch
 
-LinkedIn: https://www.linkedin.com/in/dicchyantgurung/
-Email: dicchyant.gurung@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dicchyantgurung)
+Email: <dicchyant.gurung@gmail.com>
 Phone: (267)-670-3816
---------------------------------------------------------------------------
 
 
