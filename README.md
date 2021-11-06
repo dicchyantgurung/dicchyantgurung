@@ -4,10 +4,9 @@ Data Scientist and Machine Learning engineer offering extensive background in Fi
 
 Experienced in Data Engineering (Python, R, SQL), Statistical Analysis (A/B testing), Machine Learning (Sci-kit learn, Pandas, NumPy), and Deep Learning (Keras). Highly skilled in synthesizing complex information and Data Storytelling (Tableau) to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data.
 
---------------------------------------------------------------------------
+
 
 ### Projects
---------------------------------------------------------------------------
 
 [Optimizing Location and Service for Air-Taxi Operations in the Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
 
