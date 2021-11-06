@@ -21,6 +21,6 @@ Experienced in Data Engineering (Python, R, SQL), Statistical Analysis (A/B test
 
 - [LinkedIn](https://www.linkedin.com/in/dicchyantgurung)
 - Email: <dicchyant.gurung@gmail.com>
-- Phone: (267)-670-3816
+- Phone: <(267)-670-3816>
 
 
