@@ -6,11 +6,7 @@
 
 - 📈 Experienced finance professional skilled in taking a product from inception to delivery!
 
-### How to reach me: 😃
-
-- Email: <dicchyant.gurung@gmail.com>
-- [LinkedIn](https://www.linkedin.com/in/dicchyantgurung)
-- Phone: (267)-670-3816
+- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/dicchyantgurung) | Email: <dicchyant.gurung@gmail.com> | Phone: (267)-670-3816
 
 --------------------------------------------------------
 More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! I have a very inquisitive mind and I love researching things that interest me at the time and learning everything I can about it. 🥇
