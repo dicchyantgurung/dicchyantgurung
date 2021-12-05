@@ -6,7 +6,8 @@
 
 - 📈 Experienced finance professional skilled in taking a product from inception to delivery!
 
-📫 How to reach me:
+
+### How to reach me: 📫
 
 [LinkedIn](https://www.linkedin.com/in/dicchyantgurung) | Email: <dicchyant.gurung@gmail.com> | Phone: (267)-670-3816
 
