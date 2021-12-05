@@ -1,4 +1,4 @@
-💥 # Hey! I'm Dicchyant! :bowtie:
+# Hey! I'm Dicchyant! :bowtie:
 
 Data Scientist and Machine Learning engineer offering extensive background in Finance and Project Management. 
 
@@ -9,13 +9,13 @@ More personally, I’m very career oriented but also like to dive into new hobbi
 In my free time, I love to travel, get involved in semi-extreme sports such as cliff jumping, dirt biking, and surfing. I have also always been fascinated by airplanes and aim to getting a piloting license soon to fly over the weekends.
 
 --------------------------------------------------------
-💥 ### My Recent Blogs 🤓
+### My Recent Blogs 🤓
 
 - [Solving the mass transit problem using Machine Learning: A case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
 - [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
 
 ---------------------------------------------------------
-💥 ### Projects 🏁
+### Projects 🏁
 
 1. [Optimizing Location and Service for Air-Taxi Operations in the Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
 
@@ -26,14 +26,14 @@ In my free time, I love to travel, get involved in semi-extreme sports such as c
 4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
 
 --------------------------------------------------------
-💥 ### Get in Touch 📫
+### Get in Touch 📫
 
 - [LinkedIn](https://www.linkedin.com/in/dicchyantgurung)
 - Email: <dicchyant.gurung@gmail.com>
 - Phone: (267)-670-3816
 
 ---------------------------------------------------------
-💥 ### Github Stats 📊
+### Github Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=dicchyantgurung&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
