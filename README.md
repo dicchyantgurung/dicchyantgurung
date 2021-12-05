@@ -29,15 +29,12 @@ In my free time, I love to travel, get involved in semi-extreme sports such as c
 - Phone: (267)-670-3816
 
 ---------------------------------------------------------
-#### Github Stats
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=dicchyantgurung&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicchyantgurung&theme=dark" width="48%" >
 
-
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicchyantgurung&layout=compact)
 
 
