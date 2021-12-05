@@ -30,7 +30,7 @@ In my free time, I love to travel, get involved in semi-extreme sports such as c
 
 ---------------------------------------------------------
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={dicchyantgurung}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dicchyantgurung&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 
 ### Github Streaks
