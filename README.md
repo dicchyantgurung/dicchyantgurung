@@ -4,9 +4,9 @@ Data Scientist and Machine Learning engineer offering extensive background in Fi
 
 Experienced in Data Engineering (Python, R, SQL), Statistical Analysis (A/B testing), Machine Learning (Scikit-learn, Pandas, NumPy), and Deep Learning (Keras). Highly skilled in synthesizing complex information and Data Storytelling (Tableau) to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data!
 
-More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm a pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! I also love researching and talking about human psychology, how thought patterns lead to development of personalities and how one can use it to better themselves.
+More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! I have a very inquisitive mind and I love researching things that interest me at the time and learning everything I can about it.
 
-In my free time, I love to travel, get involved in semi-extreme sports such as cliff jumping, dirt biking, and surfing. I aim to get a piloting license some day soon and get into track racing with both cars and motrocycles.
+In my free time, I love to travel, get involved in semi-extreme sports such as cliff jumping, dirt biking, and surfing. I have also always been fascinated by airplanes and aim to getting a piloting license soon to fly over the weekends.
 
 --------------------------------------------------------
 
@@ -27,5 +27,16 @@ In my free time, I love to travel, get involved in semi-extreme sports such as c
 - [LinkedIn](https://www.linkedin.com/in/dicchyantgurung)
 - Email: <dicchyant.gurung@gmail.com>
 - Phone: (267)-670-3816
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
 
