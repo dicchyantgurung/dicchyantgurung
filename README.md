@@ -1,6 +1,6 @@
 # Hey! I'm Dicchyant!
 
-Data Scientist and Machine Learning engineer offering extensive background in Finance and Project Management. :bowtie:
+:bowtie: Data Scientist and Machine Learning engineer offering extensive background in Finance and Project Management.
 
 Experienced in Data Engineering (Python, R, SQL), Statistical Analysis (A/B testing), Machine Learning (Scikit-learn, Pandas, NumPy), and Deep Learning (Keras). Highly skilled in synthesizing complex information and Data Storytelling (Tableau) to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data! 
 
