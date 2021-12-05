@@ -1,4 +1,6 @@
-# Hey! I'm Dicchyant! Welcome to my Github profile! :bowtie:
+# Hey! I'm Dicchyant! 
+
+### Welcome to my Github profile! :bowtie:
 
 - 🔎 Data Scientist and Machine Learning engineer passionate about solving real-world problems!
 
