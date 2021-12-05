@@ -1,10 +1,8 @@
-# Hey! I'm Dicchyant!
+# Hey! I'm Dicchyant! Welcome to my Github profile! :bowtie:
 
-### Welcome to my Github profile! :bowtie:
+- 🔎 Data Scientist and Machine Learning engineer passionate about solving real-world problems!
 
-- Data Scientist and Machine Learning engineer passionate about solving real-world problems! 🔎
-
-- Highly skilled in synthesizing complex information to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data! 📈
+- 📈 Highly skilled in synthesizing complex information to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data!
 
 --------------------------------------------------------
 More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! I have a very inquisitive mind and I love researching things that interest me at the time and learning everything I can about it. 🥇
