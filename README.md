@@ -15,7 +15,7 @@ In my free time, I love to travel, get involved in semi-extreme sports such as c
 - [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
 
 ---------------------------------------------------------
-### Projects 🏁
+### Projects 🏆
 
 1. [Optimizing Location and Service for Air-Taxi Operations in the Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
 
@@ -26,14 +26,14 @@ In my free time, I love to travel, get involved in semi-extreme sports such as c
 4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
 
 --------------------------------------------------------
-### Get in Touch 📫
+### Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/dicchyantgurung)
 - Email: <dicchyant.gurung@gmail.com>
 - Phone: (267)-670-3816
 
 ---------------------------------------------------------
-### Github Stats 📊
+### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=dicchyantgurung&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
