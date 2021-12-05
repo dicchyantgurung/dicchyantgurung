@@ -1,12 +1,14 @@
-# Hey! I'm Dicchyant! :bowtie:
+# Hey! I'm Dicchyant!
 
-Data Scientist and Machine Learning engineer offering extensive background in Finance and Project Management. 
+Data Scientist and Machine Learning engineer offering extensive background in Finance and Project Management. :bowtie:
 
-Experienced in Data Engineering (Python, R, SQL), Statistical Analysis (A/B testing), Machine Learning (Scikit-learn, Pandas, NumPy), and Deep Learning (Keras). Highly skilled in synthesizing complex information and Data Storytelling (Tableau) to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data!
+Experienced in Data Engineering (Python, R, SQL), Statistical Analysis (A/B testing), Machine Learning (Scikit-learn, Pandas, NumPy), and Deep Learning (Keras). Highly skilled in synthesizing complex information and Data Storytelling (Tableau) to engage shareholders in a productive dialogue that drives business results. Strong skills in team collaboration with a passion and curiosity for all things data! 
 
-More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! I have a very inquisitive mind and I love researching things that interest me at the time and learning everything I can about it.
+More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! 🥇
 
-In my free time, I love to travel, get involved in semi-extreme sports such as cliff jumping, dirt biking, and surfing. I have also always been fascinated by airplanes and aim to getting a piloting license soon to fly over the weekends.
+I have a very inquisitive mind and I love researching things that interest me at the time and learning everything I can about it. 
+
+In my free time, I love to travel, get involved in semi-extreme sports such as cliff jumping, dirt biking, and surfing. I have also always been fascinated by airplanes and aim to getting a piloting license soon to fly over the weekends. 🏍️ 🏄 🛩️
 
 --------------------------------------------------------
 ### My Recent Blogs 🤓
