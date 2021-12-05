@@ -6,7 +6,7 @@
 
 - 📈 Experienced finance professional skilled in taking a product from inception to delivery!
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/dicchyantgurung/)
 &nbsp;
 
 [LinkedIn](https://www.linkedin.com/in/dicchyantgurung) | Email: <dicchyant.gurung@gmail.com>
