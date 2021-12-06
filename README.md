@@ -4,11 +4,13 @@
 
 - 🔎 Data Scientist and Machine Learning engineer passionate about solving real-world problems!
 
-- 📈 Experienced finance professional skilled in taking a product from inception to delivery!
+- 📈 Experienced finance professional proficient in project management, team building and client relationships.
+
+<br/ >
 
 ### Connect with me! 😄
 
-[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)   [![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)  [![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
+[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; [![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; [![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
 
 --------------------------------------------------------
 ### Recent Blogs 📝
@@ -26,11 +28,6 @@
 3. [Identifying Opportunities to Improve Roadway Safety in Chicago through Car Crash Analysis](https://github.com/dicchyantgurung/Classification-of-car-crashes-in-Chicago-using-XGBoost)
 
 4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
-
---------------------------------------------------------
-More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! I have a very inquisitive mind and I love researching things that interest me at the time and learning everything I can about it. 🥇
-
-In my free time, I love to travel, get involved in semi-extreme sports such as cliff jumping, dirt biking, and surfing. I have also always been fascinated by airplanes and aim to getting a piloting license soon to fly over the weekends. 🏍️ 🏄 🛩️
 
 ---------------------------------------------------------
 ### Github Stats
