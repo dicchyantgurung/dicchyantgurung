@@ -6,11 +6,11 @@
 
 - 📈 Experienced finance professional proficient in project management, team building and client relationships.
 
-<br/ >
+
 
 ### Connect with me! 😄
 
-[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; [![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; [![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
+[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; &nbsp; &nbsp; [![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; &nbsp; &nbsp; [![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
 
 --------------------------------------------------------
 ### Recent Blogs 📝
