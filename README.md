@@ -1,4 +1,4 @@
-# Hey! I'm Dicchyant! 
+# Hey. I'm Dicchyant! You can call me Deshant.
 
 ### Welcome to my Github profile! :bowtie:
 
