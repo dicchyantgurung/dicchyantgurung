@@ -12,7 +12,7 @@
 
 ### Connect with me! 🙂
 
-[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; &nbsp;[![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; &nbsp;[![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
+[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin1.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; &nbsp;[![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; &nbsp;[![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
 
 --------------------------------------------------------
 ### Recent Blogs ✍️
@@ -32,7 +32,7 @@
 
 ### Languages and Tools
 
-![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools1.png)
+![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools2.png)
 
 ---------------------------------------------------------
 ### Github Stats
