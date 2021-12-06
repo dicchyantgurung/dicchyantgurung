@@ -35,7 +35,7 @@
 --------------------------------------------------------
 ### Languages and Tools 🥇
 
-![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools3.png)
+[![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools3.png)](https://towardsdatascience.com/ml-infrastructure-tools-for-data-preparation-70d79e70f8d4)
 
 --------------------------------------------------------
 
