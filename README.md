@@ -18,11 +18,12 @@
 ### Recent Blogs ✍️
 
 - [Solving The Mass Transit Problem Using Machine Learning: A Case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
+-
 - [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
 
 ### Projects 🏆
 
-1. [Optimizing Location for Air-Taxi Operations in The Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
+1. [Predicting Demand and Location for Air-Taxi Operations in The Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
 
 2. [Understanding Brand Perception through Twitter Sentiment Analysis](https://github.com/dicchyantgurung/Tweet-sentiment-analysis-using-NLP-for-Google-and-Apple)
 
@@ -30,7 +31,7 @@
 
 4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
 
-### Languages and Tools
+### Languages and Tools 🥇
 
 ![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools3.png)
 
