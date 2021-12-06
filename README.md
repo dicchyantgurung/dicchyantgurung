@@ -6,9 +6,9 @@
 
 - 📈 Experienced finance professional skilled in taking a product from inception to delivery!
 
-[![LinkedIn](https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1638751891~hmac=343b83c6311be4d970011227dd7558aa)](https://www.linkedin.com/in/dicchyantgurung/)
+[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJlMeccnH3CGvHPw2nH8HYklFWycNWNb4XQ&usqp=CAU)](https://www.linkedin.com/in/dicchyantgurung/)
 
-[LinkedIn](https://www.linkedin.com/in/dicchyantgurung) | Email: <dicchyant.gurung@gmail.com>
+Email: <dicchyant.gurung@gmail.com>
 
 --------------------------------------------------------
 More personally, I’m very career oriented but also like to dive into new hobbies whenever I can. I'm pretty laid back most of the time, but also operate with a sense of urgency when needed, which has allowed me to stay calm under pressure yet achieve maximum results! I have a very inquisitive mind and I love researching things that interest me at the time and learning everything I can about it. 🥇
