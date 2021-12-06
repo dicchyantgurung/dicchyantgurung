@@ -7,7 +7,7 @@
 - 📈 Experienced finance professional skilled in taking a product from inception to delivery!
 
 [![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)
-
+[![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium.png)](https://www.linkedin.com/in/dicchyantgurung/)
 Email: <dicchyant.gurung@gmail.com>
 
 --------------------------------------------------------
