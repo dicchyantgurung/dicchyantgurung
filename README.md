@@ -35,7 +35,7 @@
 --------------------------------------------------------
 ### Languages and Tools 🥇
 
-[![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools3.png)](https://higherlogicdownload.s3.amazonaws.com/IMWUC/UploadedImages/98f20a9d-926b-4e13-819f-d6522f692412/tools.png)
+[![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools3.png)](https://www.jigsawacademy.com/top-analytics-tools-every-data-scientist-must-learn/)
 
 --------------------------------------------------------
 
