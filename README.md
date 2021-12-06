@@ -32,7 +32,7 @@
 
 ### Languages and Tools
 
-[Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools1.png)
+![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools1.png)
 
 ---------------------------------------------------------
 ### Github Stats
