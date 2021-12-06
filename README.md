@@ -18,7 +18,7 @@
 ### Recent Blogs ✍️
 
 - [Solving The Mass Transit Problem Using Machine Learning: A Case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
--
+
 - [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
 
 ### Projects 🏆
