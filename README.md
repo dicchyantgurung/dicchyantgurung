@@ -1,5 +1,7 @@
 # Hey! I'm Dicchyant! 
 
+[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; &nbsp; [![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; &nbsp; [![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
+
 ### Welcome to my Github profile! :bowtie:
 
 - 🔎 Data Scientist and Machine Learning engineer passionate about solving real-world problems!
