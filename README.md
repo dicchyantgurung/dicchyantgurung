@@ -14,6 +14,8 @@
 
 [![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin1.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; &nbsp;[![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; &nbsp;[![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail1.png)](mailto:dicchyant.gurung@gmail.com)
 
+--------------------------------------------------------
+
 ### Recent Blogs ✍️
 
 - [Solving The Mass Transit Problem Using Machine Learning: A Case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
@@ -34,6 +36,8 @@
 ### Languages and Tools 🥇
 
 ![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools3.png)
+
+--------------------------------------------------------
 
 ### Github Stats
 
