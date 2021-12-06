@@ -6,11 +6,12 @@
 
 - 📈 Experienced finance professional skilled in taking a product from inception to delivery!
 
-### Get in touch!
+### Connect with me! 😄
 
 [![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)   [![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)  [![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail.png)](mailto:dicchyant.gurung@gmail.com)
 
-### My Recent Blogs 🤓
+--------------------------------------------------------
+### Recent Blogs 📝
 
 - [Solving the mass transit problem using Machine Learning: A case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
 - [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
