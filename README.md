@@ -6,9 +6,7 @@
 
 - 📈 Experienced finance professional skilled in taking a product from inception to delivery!
 
-[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/)
-
-[![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)
+[![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/dicchyantgurung/) [![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)
 
 [![Email](Email: <dicchyant.gurung@gmail.com>
 
