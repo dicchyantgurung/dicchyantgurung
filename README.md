@@ -10,19 +10,19 @@
 
 - 📝 [Resume](https://drive.google.com/file/d/1NxAQwpTOZHUPHMBHcB58PMA1fIERs8f1/view?usp=sharing)
 
-### Connect with me! 🙂
+### Connect with me!
 
 [![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin1.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; &nbsp;[![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; &nbsp;[![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail1.png)](mailto:dicchyant.gurung@gmail.com)
 
 --------------------------------------------------------
 
-### Recent Blogs ✍️
+### Recent Blogs
 
 - [Solving The Mass Transit Problem Using Machine Learning: A Case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
 
 - [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
 
-### Projects 🏆
+### Projects
 
 1. [Predicting Demand and Location for Air-Taxi Operations in The Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
 
@@ -33,7 +33,7 @@
 4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
 
 --------------------------------------------------------
-### Languages and Tools 🥇
+### Languages and Tools
 
 [![Tools](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/tools3.png)](https://www.jigsawacademy.com/top-analytics-tools-every-data-scientist-must-learn/)
 
