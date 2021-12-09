@@ -4,7 +4,7 @@
 
 - 🔎 Data Scientist and Machine Learning engineer passionate about solving real-world problems!
 
-- 📈 Experienced finance professional proficient in project management, team building and client relations.
+- 📈 Experienced finance professional skilled in project management, team building and client relations.
 
 - 🏄 Adventure seeker, gym rat, self development advocate.
 
