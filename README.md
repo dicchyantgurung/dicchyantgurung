@@ -32,6 +32,8 @@
 
 4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
 
+5. [Exploring the Movie Industry for Popular Trends, Genres, and Consumer Interest](https://github.com/dicchyantgurung/Exploratory-data-analysis-of-the-movie-industry)
+
 --------------------------------------------------------
 ### Languages and Tools
 
