@@ -8,7 +8,7 @@
 
 - 🏄 Adventure seeker, gym rat, self development advocate.
 
-- 📝 [Resume](https://drive.google.com/file/d/1NxAQwpTOZHUPHMBHcB58PMA1fIERs8f1/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1h4BkSV6-IXiJKqRijzyFsKH31rQHYSnd/view?usp=sharing)
 
 ### Connect with me!
 
