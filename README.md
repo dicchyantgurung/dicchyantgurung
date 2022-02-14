@@ -14,6 +14,11 @@
 
 [![LinkedIn](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/linkedin1.png)](https://www.linkedin.com/in/dicchyantgurung/)&nbsp; &nbsp;[![Medium](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/medium1.png)](https://medium.com/@dicchyantgurung)&nbsp; &nbsp;[![Email](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/gmail1.png)](mailto:dicchyant.gurung@gmail.com)
 
+
+### Certifications
+
+![Google Analytics Badge](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/google-data-analytics-professional-certificate.1.png)
+
 --------------------------------------------------------
 
 ### Recent Blogs
