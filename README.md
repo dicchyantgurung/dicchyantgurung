@@ -21,23 +21,25 @@
 
 --------------------------------------------------------
 
-### Recent Blogs
-
-- [Solving The Mass Transit Problem Using Machine Learning: A Case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
-
-- [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
-
 ### Projects
 
 1. [Predicting Demand and Location for Air-Taxi Operations in The Bay Area](https://github.com/dicchyantgurung/Air-Taxi-Logistics)
 
 2. [Understanding Brand Perception through Twitter Sentiment Analysis](https://github.com/dicchyantgurung/Tweet-sentiment-analysis-using-NLP-for-Google-and-Apple)
 
-3. [Identifying Opportunities to Improve Roadway Safety in Chicago](https://github.com/dicchyantgurung/Classification-of-car-crashes-in-Chicago-using-XGBoost)
+3. [Identifying Opportunities to Improve Roadway Safety in Chicago](https://github.com/dicchyantgurung/Identifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago)
 
 4. [Identifying Undervalued Houses for Real-Estate Investments in King County, Seattle](https://github.com/dicchyantgurung/Identifying-undervalued-vs-overvalued-houses-in-King-County-Seattle)
 
 5. [Exploring the Movie Industry for Popular Trends, Genres, and Consumer Interest](https://github.com/dicchyantgurung/Exploratory-data-analysis-of-the-movie-industry)
+
+
+### Recent Blogs
+
+- [Solving The Mass Transit Problem Using Machine Learning: A Case for E-Vtol’s](https://medium.com/@dicchyantgurung/solving-the-mass-transit-problem-using-machine-learning-a-case-for-e-vtols-5e65903c867)
+
+- [Understanding Brand Perception Using NLP (Sentiment Analysis)](https://medium.com/@dicchyantgurung/understanding-brand-perception-using-nlp-sentiment-analysis-ff557e09e1a6)
+
 
 --------------------------------------------------------
 ### Languages and Tools
