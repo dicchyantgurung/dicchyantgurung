@@ -17,7 +17,7 @@
 
 ### Certifications
 
-![Google Analytics Badge](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/google-data-analytics-professional-certificate.1.png) 
+![Google Analytics Badge](https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/google-data-analytics-professional-certificate.1.png) <img src="https://github.com/dicchyantgurung/Air-Taxi-Logistics/blob/main/Images/prosci.jpeg" width="260">
 
 --------------------------------------------------------
 
